@@ -1,0 +1,29 @@
+﻿2018-09-18 16:27:49> Program: Starting Squirrel Updater: --createShortcut GitHubDesktop.exe -l StartMenu,Desktop
+2018-09-18 16:27:49> ApplyReleasesImpl: About to create shortcuts for GitHubDesktop.exe, rootAppDir C:\Users\ahlfs\AppData\Local\GitHubDesktop
+2018-09-18 16:27:49> ApplyReleasesImpl: Creating shortcut for GitHubDesktop.exe => C:\Users\ahlfs\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\GitHub, Inc.\GitHub Desktop.lnk
+2018-09-18 16:27:49> ApplyReleasesImpl: About to save shortcut: C:\Users\ahlfs\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\GitHub, Inc.\GitHub Desktop.lnk (target C:\Users\ahlfs\AppData\Local\GitHubDesktop\GitHubDesktop.exe, workingDir C:\Users\ahlfs\AppData\Local\GitHubDesktop\app-1.4.0, args , toastActivatorCSLID 27d44d0c-a542-5b90-bcdb-ac3126048ba2)
+2018-09-18 16:27:49> ApplyReleasesImpl: Creating shortcut for GitHubDesktop.exe => C:\Users\ahlfs\Desktop\GitHub Desktop.lnk
+2018-09-18 16:27:49> ApplyReleasesImpl: About to save shortcut: C:\Users\ahlfs\Desktop\GitHub Desktop.lnk (target C:\Users\ahlfs\AppData\Local\GitHubDesktop\GitHubDesktop.exe, workingDir C:\Users\ahlfs\AppData\Local\GitHubDesktop\app-1.4.0, args , toastActivatorCSLID 27d44d0c-a542-5b90-bcdb-ac3126048ba2)
+2018-09-18 16:27:49> ApplyReleasesImpl: Examining Pin: File Explorer.lnk
+2018-09-18 16:27:49> ApplyReleasesImpl: Examining Pin: Google Chrome.lnk
+2018-09-18 16:27:49> ApplyReleasesImpl: Examining Pin: The Elder Scrolls Online .lnk
+2018-09-18 16:27:54> Program: Starting Squirrel Updater: --checkForUpdate https://central.github.com/api/deployments/desktop/desktop/latest?version=1.4.0&env=production
+2018-09-18 16:27:54> Program: Fetching update information, downloading from https://central.github.com/api/deployments/desktop/desktop/latest?version=1.4.0&env=production
+2018-09-18 16:27:54> CheckForUpdateImpl: Generated new staging user ID: e09f4d02-4a0b-5dda-8a2f-d71b7011eb2e
+2018-09-18 16:27:54> CheckForUpdateImpl: Downloading RELEASES file from https://central.github.com/api/deployments/desktop/desktop/latest?version=1.4.0&env=production
+2018-09-18 16:27:54> FileDownloader: Downloading url: https://central.github.com/api/deployments/desktop/desktop/latest/RELEASES?version=1.4.0&env=production&id=GitHubDesktop&localVersion=1.4.0&arch=amd64
+2018-09-18 20:44:32> Program: Starting Squirrel Updater: --checkForUpdate https://central.github.com/api/deployments/desktop/desktop/latest?version=1.4.0&env=production
+2018-09-18 20:44:32> Program: Fetching update information, downloading from https://central.github.com/api/deployments/desktop/desktop/latest?version=1.4.0&env=production
+2018-09-18 20:44:32> CheckForUpdateImpl: Using existing staging user ID: e09f4d02-4a0b-5dda-8a2f-d71b7011eb2e
+2018-09-18 20:44:32> CheckForUpdateImpl: Downloading RELEASES file from https://central.github.com/api/deployments/desktop/desktop/latest?version=1.4.0&env=production
+2018-09-18 20:44:32> FileDownloader: Downloading url: https://central.github.com/api/deployments/desktop/desktop/latest/RELEASES?version=1.4.0&env=production&id=GitHubDesktop&localVersion=1.4.0&arch=amd64
+2018-09-18 21:03:51> Program: Starting Squirrel Updater: --checkForUpdate https://central.github.com/api/deployments/desktop/desktop/latest?version=1.4.0&env=production
+2018-09-18 21:03:51> Program: Fetching update information, downloading from https://central.github.com/api/deployments/desktop/desktop/latest?version=1.4.0&env=production
+2018-09-18 21:03:51> CheckForUpdateImpl: Using existing staging user ID: e09f4d02-4a0b-5dda-8a2f-d71b7011eb2e
+2018-09-18 21:03:51> CheckForUpdateImpl: Downloading RELEASES file from https://central.github.com/api/deployments/desktop/desktop/latest?version=1.4.0&env=production
+2018-09-18 21:03:52> FileDownloader: Downloading url: https://central.github.com/api/deployments/desktop/desktop/latest/RELEASES?version=1.4.0&env=production&id=GitHubDesktop&localVersion=1.4.0&arch=amd64
+2018-09-18 22:52:16> Program: Starting Squirrel Updater: --checkForUpdate https://central.github.com/api/deployments/desktop/desktop/latest?version=1.4.0&env=production
+2018-09-18 22:52:16> Program: Fetching update information, downloading from https://central.github.com/api/deployments/desktop/desktop/latest?version=1.4.0&env=production
+2018-09-18 22:52:16> CheckForUpdateImpl: Using existing staging user ID: e09f4d02-4a0b-5dda-8a2f-d71b7011eb2e
+2018-09-18 22:52:16> CheckForUpdateImpl: Downloading RELEASES file from https://central.github.com/api/deployments/desktop/desktop/latest?version=1.4.0&env=production
+2018-09-18 22:52:16> FileDownloader: Downloading url: https://central.github.com/api/deployments/desktop/desktop/latest/RELEASES?version=1.4.0&env=production&id=GitHubDesktop&localVersion=1.4.0&arch=amd64
